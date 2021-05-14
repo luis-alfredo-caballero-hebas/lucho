@@ -1,1 +1,1 @@
-txt 5
+Permite la creación de sitios dinámicos en Internet. Esto se consigue generando los contenidos del sitio a través de una base de datos mediante lenguajes de programación Web. Dominando la programación Web podremos crear sitios dinámicos como periódicos digitales o tiendas virtuales Definición de desarrollo web. El desarrollo web es un término que define la creación de sitios web para Internet o una intranet. Para lograr esto, la tecnología 
