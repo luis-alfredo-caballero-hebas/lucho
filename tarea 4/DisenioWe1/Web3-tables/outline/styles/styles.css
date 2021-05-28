@@ -1,0 +1,38 @@
+body {
+    background-image: url(../../../Web1/images/background01.jpg);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: #6b4a3a;
+}
+
+p {
+    font-size: x-large;
+}
+
+.first {
+    color: #064d4d;
+}
+
+.second {
+    color: darkred;
+}
+
+.tirdth {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+b {
+    font-family: monospace;
+    color: darkblue;
+    font-size: xx-large;
+}
+
+.bgcolor {
+    max-width: 40%;
+    background-color: darkseagreen;
+    float: left;
+    margin: 5px;
+    padding: 8px;
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../styles.css">
+    <link rel="stylesheet" type="text/css" href="../styles/modal.css">
+    <title>My Web Page</title>
+</head>
+<body>
+    <nav class="topnav">
+        <div class="align">
+            <a href="#">Home</a>
+            <a href="News.html">News</a>
+            <a href="Contacts.html">Contacts</a>
+            
+        </div>
+        <div class="align2">
+            <a href="#" class="active">login</a>
+            <a href="register.html" >Register</a>
+        </div>
+    </nav>
+
+    <h2>modal login form</h2>
+
+    <button onclick="document.getElementById('id01').style.display = 'block'">login </button>
+
+    <div id="id01" class="modal">
+        <form class="">
+            <div class="">
+                hola como estas
+            </div>
+        </form>
+    </div>
+    <script>
+        var modal = document.getElementById('id01');
+
+        window.onclick = Function(Event) {
+            if(Event.target == modal){
+             modal.style.display = "none"; 
+            }
+        }
+    </script>
+
+</body>
+</html>

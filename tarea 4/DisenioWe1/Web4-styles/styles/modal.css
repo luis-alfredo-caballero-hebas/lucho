@@ -1,0 +1,27 @@
+button {
+
+  background-color:#1b691b;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin: 8px 0;
+
+}
+
+button:hover{
+  /*opacity: 0,8:*/
+  background-color: #126807;
+}
+
+.modal{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: auto;
+    overflow: auto;
+    background: rgb(0,0,0);
+    background: rgb(0,0,0,0.4);
+}
